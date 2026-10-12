@@ -22,7 +22,6 @@ M2 delivers:
 | `Report/` | `M2_Khushi_Shah_Report.pdf`; LaTeX source in `Report/src/` |
 | `Video/` | Walkthrough link (`M2_Khushi_Shah_video_link.md`), 6 slides (`M2_Khushi_Shah_Slides.pptx`), script (`video_script.md`) |
 | `Code/` | Simulator and plotting code (`Code/src/`); see `Code/README.md` |
-| `Data/` | Simulation-only project: no external dataset. Parameters are documented in `Data/README.md` |
 | `Results/` | The four figures, the network-model figure, the closed-form check output, and `key_numbers.md` |
 
 ## Reproduce
