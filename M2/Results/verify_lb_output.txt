@@ -1,0 +1,19 @@
+rho*eta = 7.27e+05
+
+M=2, S=20 m
+  B_c    closed form 15.1405 | numerical 15.1405 | MC geometry 15.1377
+  B_c^max 16.3016
+  p_1    closed form 0.0320 | brute-force MC 0.0319
+  per-segment penalty B_c^max*p_1 = 0.5210 bits/s/Hz per neighbour
+  M*B_c (perfect isolation)      = 30.281
+  MC ergodic sum CR (simulation) = 29.453
+  Lower bound: edma_sim.lb 29.239 | by hand 29.239
+
+M=5, S=8 m
+  B_c    closed form 15.9714 | numerical 15.9714 | MC geometry 15.9713
+  B_c^max 16.3016
+  p_1    closed form 0.2779 | brute-force MC 0.2779
+  per-segment penalty B_c^max*p_1 = 4.5307 bits/s/Hz per neighbour
+  M*B_c (perfect isolation)      = 79.857
+  MC ergodic sum CR (simulation) = 51.432
+  Lower bound: edma_sim.lb 43.611 | by hand 43.611
